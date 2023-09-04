@@ -1,0 +1,24 @@
+a {
+    color: rgb(150, 64, 54);
+}
+
+a:hover{
+    background-color: blanchedalmond;
+}
+
+body {
+    font-family: "Gill Sans", sans-serif;
+    margin: auto;
+    width: min-content;
+
+}
+
+h1 {
+    color:salmon
+}
+
+.hero-img {
+    font-size: 0.8rem;
+    color: gray;
+}
+
